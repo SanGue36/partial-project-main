@@ -1,0 +1,21 @@
+.wrapper{
+    text-align: center;
+    position: relative;
+    left: 600px;
+    top: 90px;
+    margin-top: 100px;
+    font-style: initial;
+    background: rgb(255, 253, 253);
+box-shadow: 0 8px 32px 0 rgba(14, 14, 17, 0.37);
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba(250, 4, 4, 0.18);
+
+}
+body{
+    /* background-color: rgb(250, 244, 243); */
+    background-image: url("https://t3.ftcdn.net/jpg/02/22/93/02/240_F_222930217_CxFEUlBLgePoZxH3Xnu4Dj23BGB3E9IH.jpg");
+    background-size: 950px;
+
+}

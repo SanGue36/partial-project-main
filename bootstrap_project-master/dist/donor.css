@@ -1,0 +1,97 @@
+.heading{
+    text-align: center;
+    top: 5px;
+    position: relative;
+
+}
+.form-group{
+    
+    text-align: center;
+    position: relative;
+    top: 20px;
+
+}
+.first{
+    position: relative;
+right: 30px;
+    top: 5px;
+    font-size: 17px;
+    
+}
+.last{
+    position: relative;
+    right: 30px;
+    top: 20px ;
+    font-size: 17px;
+    
+}
+.phone{
+    position: relative;
+    right: 53px;
+    font-size: 17px;
+}
+.place{
+    position: relative;
+    right: -15px;
+    top: -25px;
+    font-size: 17px;
+}
+.dob{
+    position: relative;
+    right: 85px;
+    top: -40px;
+    font-size: 17px;
+}
+.gender{
+     position: relative;
+     
+     right: 90px;
+     top: -40px;
+     font-size: 17px;
+     
+}
+
+.other{
+    position: relative;
+    top: -40px;
+    right:50px;
+}
+.bloodgroup{
+    position:relative;
+    right:120px;
+    top:-50px;
+    font-size: 17px;
+}
+.full{
+   color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:200px;
+   
+}
+body{
+    background-image: url("https://media.istockphoto.com/photos/note-paper-with-blood-donation-concept-on-red-background-picture-id1252380604?b=1&k=20&m=1252380604&s=170667a&w=0&h=-9QDmdi5I97950FdoOvwElUbuGc0MA9j3xp1PKCMhh8=");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(217, 13, 13);
+}
+.address{
+    position: relative;
+    right: -5px;
+    font-size: 17px;
+}
+.e-mail{
+    position: relative;
+  right: -10px;
+    font-size: 17px;
+}
+.file{
+    font-size: 17px;
+    position: relative;
+    top: -50px;
+    left: -10px;
+}
+.button{
+    position: relative;
+    left: -25px;
+}

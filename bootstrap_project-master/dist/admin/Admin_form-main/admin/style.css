@@ -1,0 +1,134 @@
+.navbar {
+  border-radius: 100px;
+  margin: 20px 100px;
+  
+  
+}
+
+.list {
+  margin: 0px 120px;
+  text-decoration:none ;
+  list-style: none;
+}
+.nav-link active{
+  text-decoration: none;
+
+}
+
+.nav-link {
+  font-size: 35px;
+  color:#ffc800 !important;
+}
+  @import url('https://fonts.googleapis.com/css?family=Allura|Josefin+Sans');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: #e6e7e5;
+  font-family: 'Josefin Sans', sans-serif;
+  background-image: url("");
+  background-size: cover;
+  background-repeat: no-repeat; 
+}
+
+.full{
+  margin-top: 10%;
+}
+
+
+.complete{
+  display: flex;
+  justify-content: center;
+  width: auto;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.complete .blood{
+  background: #fff;
+  margin: 25px;
+  margin-bottom: 50px;
+  width: 300px;
+  padding: 50px;
+  line-height: 20px;
+  color: #8e8b8b;  
+  position: relative;
+  transition: 0.5s;
+}
+
+.complete .blood h3{
+  color:  #ffc800;
+  font-size: 26px;
+  margin-top: 50px;
+}
+
+.complete .blood p.role{
+  color: #ccc;
+  margin: 12px 0;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.complete .blood .b_img{
+  position: absolute;
+  top: -50px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #fff;
+}
+
+.complete .blood .b_img img{
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+}
+.blood{
+  position: relative;
+  right: 50px;
+}
+.button{
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #ffc800;
+}
+.blood:hover{
+  transform: scale(1.1);
+}
+.list2{
+  list-style: none;
+  text-decoration:none ;
+}
+
+  .btn {
+    
+      background-color: #ffc800;
+      border: none;
+      color: #8e8b8b;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      margin: 4px 2px;
+      cursor: pointer;
+      border-radius: 20px;
+      position: relative;
+      left: 1250px;
+      top: -40px;
+    
+    
+  }
